@@ -13,8 +13,8 @@
 <a name="arcade"></a>
 <h2>👾 The arcade</h2>
 <p align="center"><b>TYPE INVADERS</b><br><sub>Type the words. Stop the invaders. Keep the streak alive.</sub></p>
-<p align="center"><a href="https://type-invader-omega.vercel.app/"><img src="assets/type-invaders-preview.gif" alt="Recorded Type Invader Reloaded gameplay — approaching enemies are labeled with words to type" width="800"></a></p>
-<p align="center"><a href="https://type-invader-omega.vercel.app/"><img src="assets/play-button.svg" alt="Play Type Invaders" width="300"></a></p>
+<p align="center"><a href="https://typeinvader.vercel.app/"><img src="assets/type-invaders-preview.gif" alt="Recorded Type Invader Reloaded gameplay — approaching enemies are labeled with words to type" width="800"></a></p>
+<p align="center"><a href="https://typeinvader.vercel.app/"><img src="assets/play-button.svg" alt="Play Type Invaders" width="300"></a></p>
 <p align="center"><a href="https://github.com/ChinmayDeepak/Type-Invader">Web edition source</a> &nbsp; · &nbsp; <a href="https://github.com/ChinmayDeepak/Type-Invader-HTML">Standalone HTML edition</a> &nbsp; · &nbsp; <a href="assets/type-invaders-preview.png">Still preview</a><br><sub>Preview recorded from the standalone edition. The web game opens on a separate page.</sub></p>
 
 <table width="100%"><tr>
