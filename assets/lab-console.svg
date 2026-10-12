@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="260" viewBox="0 0 470 260" role="img"><rect width="470" height="260" rx="14" fill="#0d1420"/><rect x="1" y="1" width="468" height="258" rx="14" fill="none" stroke="#293c50"/>
+<path d="M0 42H470" stroke="#293c50"/><circle cx="23" cy="22" r="5" fill="#b4f56a"/><circle cx="42" cy="22" r="5" fill="#68e2e0"/><circle cx="61" cy="22" r="5" fill="#b697ff"/>
+<g font-family="monospace" font-size="14"><text x="90" y="27" fill="#8299af">~/chinmay/lab</text><text x="24" y="76" fill="#b4f56a">$ build --with-curiosity</text>
+<text x="24" y="112" fill="#d4e3ef">01  inspect the data</text><text x="24" y="143" fill="#d4e3ef">02  compare the models</text><text x="24" y="174" fill="#d4e3ef">03  make it playable</text>
+<text x="24" y="223" fill="#68e2e0">&gt; learning by building</text><rect x="218" y="210" width="9" height="16" fill="#68e2e0"><animate attributeName="opacity" values="1;1;0;0" dur="1.5s" repeatCount="indefinite"/></rect></g></svg>

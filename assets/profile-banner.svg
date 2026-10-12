@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img"><defs>
+<linearGradient id="bg"><stop stop-color="#090f1c"/><stop offset="1" stop-color="#152437"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#263c50" stroke-width=".7"/></pattern>
+<linearGradient id="accent"><stop stop-color="#b4f56a"/><stop offset="1" stop-color="#68e2e0"/></linearGradient></defs>
+<rect width="1200" height="350" rx="20" fill="url(#bg)"/><rect width="1200" height="350" rx="20" fill="url(#grid)" opacity=".55"/>
+<rect x="36" y="36" width="1128" height="278" rx="12" fill="none" stroke="#304352"/>
+<path d="M36 85V48Q36 36 48 36H96M1104 314H1152Q1164 314 1164 302V265" fill="none" stroke="#b4f56a" stroke-width="3"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="68" y="81" fill="#b4f56a" font-size="15" letter-spacing="4">CHINMAYDEEPAK / PLAYER + BUILDER</text>
+<text x="64" y="147" fill="#f0f6fc" font-size="53" font-weight="700">Chinmay Deepak</text><text x="66" y="202" fill="#f0f6fc" font-size="46" font-weight="700">Chandavar<tspan fill="#b4f56a">_</tspan></text>
+<text x="68" y="247" fill="#b7c8d8" font-size="20">AI / MACHINE LEARNING / DATA SCIENCE / DSA</text>
+<text x="68" y="282" fill="#7791a8" font-size="17">Understand the data. Test the idea. Build something useful.</text></g>
+<g transform="translate(870 92)" fill="url(#accent)">
+<path d="M18 0h18v18h-18zm126 0h18v18h-18zM36 18h108v18H36zM18 36h144v18H18zM0 54h180v54h-18V90H18v18H0zM36 108h36v18H36zm72 0h36v18h-36z"/>
+<path d="M45 45h18v18H45zm72 0h18v18h-18z" fill="#101c2a"/></g>
+<text x="850" y="260" fill="#68e2e0" font-size="14" letter-spacing="3" font-family="monospace">MODE: CREATE + EXPLORE</text></svg>
